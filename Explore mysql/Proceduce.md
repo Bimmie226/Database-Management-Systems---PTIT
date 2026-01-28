@@ -163,4 +163,22 @@ DELIMITER;
 
 Tham số dạng `INOUT`:
 
+```sql
+DELIMITER $$
 
+DROP PROCEDURE IF EXISTS counter $$
+
+CREATE PROCEDURE counter(INOUT number INT(11))
+BEGIN
+    SET number = number + 1;
+END; $$
+DELIMITER;
+```
+
+Sử dụng:
+
+```sql
+SET @counter = 1;
+CALL counter(@counter);
+SELECT @counter;
+```
