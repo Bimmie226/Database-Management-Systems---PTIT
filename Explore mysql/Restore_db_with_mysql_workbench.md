@@ -63,17 +63,17 @@ Nhấp vào dấu `+` để tạo 1 connection
 
 Nhấp vào connection này
 
-![alt text](../images/import_13.png)
-
-Ta sẽ tạo 1 database mới ở đây:
-
 ![alt text](../images/import_14.png)
 
+Ta sẽ tạo 1 database mới ở đây:
 - Nếu bạn tải file `cinema.sql.gzip` bạn nên đặt tên là `cinema` 
+
+![alt text](../images/import_15.png)
 
 Chạy và sau đó sử dụng database này:
 
-![alt text](../images/import_15.png)
+![alt text](../images/import_13.png)
+
 
 Chọn `Server` -> `Data Import` để Import file `.sql` (Lưu ý là bạn nhớ giải nén file `.sql` bạn tải về ở trên nhé)
 
