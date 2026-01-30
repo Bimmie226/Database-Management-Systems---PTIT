@@ -25,6 +25,8 @@ Các bạn có thể download [tại đây](https://dev.mysql.com/downloads/inst
 
 ### 0.2 Download MySQL WorkBench & Server
 
+Mở `MySQL Installer` trên máy và thực hiện lần lượt các bước sau:
+
 ![alt text](../images/import_02.png)
 
 ![alt text](../images/import_03.png)
@@ -43,7 +45,7 @@ Nhấp vào `next` sau đó chọn `execute` sau đó `next` tiếp đến đo�
 
 Nhập mật khẩu sau đó chọn `next` đến cuối và `finish`
 
-### 0.3 Import file `.sql` trong MySQL WorkBench
+## 1. Import file `.sql` trong MySQL WorkBench
 
 ![alt text](../images/import_09.png)
 
