@@ -33,8 +33,6 @@ Mở `MySQL Installer` trên máy và thực hiện lần lượt các bước s
 
 Nhấp vào dấu `+` của 2 trường này:
 
-![alt text](../images/import_04.png)
-
 ![alt text](../images/import_06.png)
 
 ![alt text](../images/import_07.png)
